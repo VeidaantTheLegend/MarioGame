@@ -1,0 +1,28 @@
+.heading{
+    width: 100%;
+    position: fixed;
+    top:0px;
+    display: inline;
+}
+#INSTRUCTIONS{
+    float: right;
+}
+#h3{
+    float: left;
+}
+#haha{
+    width: 100%;
+}
+.modal-dialog{
+    width: 90%;
+}
+.instructionsimages{
+    width: 45%;
+    
+}
+video{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
